@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@hookform/resolvers": "^3.3.4",
+    "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-dialog": "^1.0.5",
-    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-progress": "^1.0.3",
     "@radix-ui/react-select": "^2.0.0",
-    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-tabs": "^1.0.4",
     "@sentry/nextjs": "^8.24.0",
     "chart.js": "^4.4.2",
@@ -30,11 +30,11 @@
     "react-chartjs-2": "^5.2.0",
     "react-countup": "^6.5.3",
     "react-dom": "^18",
-    "react-hook-form": "^7.51.3",
+    "react-hook-form": "^7.52.2",
     "react-plaid-link": "^3.5.1",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.23.4"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20",
